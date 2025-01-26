@@ -9,6 +9,7 @@ const BodyPage = () => {
       {
         assetFiles.map((item) => <Card product={item}/>)
       }
+      <h1></h1>
     </div>
   );
 };
